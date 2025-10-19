@@ -1,0 +1,40 @@
+ conda activate base
+    python --version
+    python testing.py
+    ls
+    ls -l
+   rm testing.py
+   clear
+   git init
+   ls
+   ls -a
+   clear
+   ls
+ ls -l
+   git status
+   git status
+   dir /a
+   clear
+   ls
+   git status
+   git add testing.py
+   git status
+   git rm --cached
+   git rm --cached testing.py
+   git status
+   git add .
+   git status
+   git commit -m"addding to tracked"
+   git status
+   git commit -m "adding to tracked"
+   git config --global user.name "MD Kaif"...
+   git config --global --list...
+   git add ....
+   git status
+   rm testing.py
+   git status
+   restore testing.py
+   git restore testing.py
+   git config --global user.name "MD Kaif"
+git config --global user.email "mdkaif638786@gmail.com"
+git config --global --list
